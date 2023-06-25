@@ -1,0 +1,19 @@
+.footer-container {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  nav {
+    display: flex;
+    gap: 1rem;
+    a {
+      text-decoration: none;
+      color: #ffff;
+    }
+  }
+  span {
+    position: absolute;
+    bottom: 2vh;
+    font-size: 12px;
+  }
+}
