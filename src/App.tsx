@@ -16,7 +16,8 @@ function App() {
             WhatsApp
           </a>
         </nav>
-        <p>"Até aqui nos ajudou o SENHOR". (1 Samuel 7:12)</p>
+        <p>"Até aqui nos ajudou o SENHOR".</p>
+        <p>1 Samuel 7:12</p>
         <Footer />
       </div>
     </div>
