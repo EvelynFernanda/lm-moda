@@ -10,7 +10,7 @@ function App() {
         <FlowerSvg />
         <img width={150} height={150} src={imgMain} />
         <h1>LM Moda Feminina</h1>
-        <p>Trabalhamos com encomendas e a pronta entrega.</p>
+        <p className="insta-info">Trabalhamos com encomendas e a pronta entrega.</p>
         <nav className="insta-contact">
           <a target={"_blank"} href="https://wa.me/5516996115807">
             WhatsApp
